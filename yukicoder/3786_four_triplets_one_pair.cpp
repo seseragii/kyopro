@@ -46,9 +46,3 @@ int main(){
         cout << " " << endl;
     }
 }
-
-/*
-Happy sequence
-• There are exactly 4 distinct positive integers that each appear exactly 3 times in B.
-• There is exactly 1 positive integer that appears exactly 2 times in B.
-*/
